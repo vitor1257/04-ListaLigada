@@ -1,4 +1,4 @@
-
+/*Vitor Castro Dias*/
 #include <iostream>
 using namespace std;
 
@@ -145,13 +145,31 @@ void inserirElemento()
 
 void excluirElemento()
 {
-	
+	NO* aux = primeiro;
+	int exclu, ante;
+	cout << "Digite o numero que voce deseja excluir:";
+	cin << exclu;
+	while(){}
 }
 
 void buscarElemento()
 {
-	
+	NO* aux = primeiro;
+	int pos;
+	cout << "Digite o elemento que voce quer buscar:";
+	cin >> pos;
+	while (aux != NULL) {
+		if (aux->valor == pos) {
+			cout << "Numero Encontrado \n";
+			break;
+		}
+		aux = aux->prox;
+	}
+	if (aux == NULL) {
+		cout << "Numero nao encontrado \n";
+	}
 }
+
 
 
 
