@@ -161,7 +161,7 @@ void excluirElemento()
 			free(aux);
 			return;
 		}
-		Atermo = aux->prox;
+		Atermo = aux;
 		aux = aux->prox;
 	}
 	cout << "Elemento nao encontrado\n";
