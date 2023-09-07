@@ -24,8 +24,6 @@ Faça um fork deste repositorio e realize as seguintes atividades:
 * Se encontrado exibe a mensagem  "ENCONTRADO"
 * Se não econtrado exibe "ELEMENTO NAO ENCONTRADO" 
 
-* Email institucional: vitor.dias8@fatec.sp.gov.br
-
 
 **excluirElemento:**
 * Pede para o usuario digitar um numero
@@ -33,3 +31,4 @@ Faça um fork deste repositorio e realize as seguintes atividades:
 * Se encontrado exclue o elemento e atualiza a quantidade de elementos na lista
 * Se não econtrado exibe "ELEMENTO NAO ENCONTRADO" 
 
+* Email institucional: vitor.dias8@fatec.sp.gov.br
