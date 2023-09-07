@@ -22,7 +22,9 @@ Faça um fork deste repositorio e realize as seguintes atividades:
 * Pede para o usuario digitar um numero
 * Busca o numero na lista
 * Se encontrado exibe a mensagem  "ENCONTRADO"
-* Se não econtrado exibe "ELEMENTO NAO ENCONTRADO"  
+* Se não econtrado exibe "ELEMENTO NAO ENCONTRADO" 
+
+* Email institucional: vitor.dias8@fatec.sp.gov.br
 
 
 **excluirElemento:**
